@@ -1,6 +1,6 @@
 # Clash of Clans Upgrade Data Scraper
 
-Scrapes upgrade data from the Clash of Clans Wiki and generates Excel sheets
+Scrapes upgrade data from the Clash of Clans **Fandom** Wiki and generates Excel sheets
 organized by Town Hall level.
 
 ## Project Structure
